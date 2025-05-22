@@ -1,3 +1,5 @@
+# link for the Globle vectors https://www.kaggle.com/datasets/bertcarremans/glovetwitter27b100dtxt
+
 # 📰 Fake News Detection using LSTM and GloVe
 
 This project aims to classify news articles as **real** or **fake** using deep learning techniques. A Long Short-Term Memory (LSTM) model was trained using pre-trained **GloVe word embeddings** to capture contextual meanings of words. The model achieves a classification accuracy of approximately **94–96%**.
